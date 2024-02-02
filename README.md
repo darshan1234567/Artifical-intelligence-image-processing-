@@ -1,2 +1,2 @@
 # Artifical-intelligence-image-processing-
-image processing
+image regression
